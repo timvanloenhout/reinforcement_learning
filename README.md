@@ -1,4 +1,4 @@
-# rl_reproducibility
+# investigating gradient stability in policy based methods
 RL 2020 Reproducibility Lab by Jochem Holscher, Bella Nicholson, Tim van Loenhout and Bob Borsboom
 
 ## train and validate policies
